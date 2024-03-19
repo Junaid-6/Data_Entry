@@ -23,4 +23,4 @@ Your QGIS plugin directory is located at:
 
 For information on writing PyQGIS code, see [http://loc8.cc/pyqgis_resources](http://loc8.cc/pyqgis_resources) for a list of resources.
 
-&copy;2011-2019 GeoApt LLC - geoapt.com
+&copy;2011-2019 J Tech LLC - J Tech.com
